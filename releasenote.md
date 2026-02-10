@@ -3,7 +3,6 @@
 
 ### Purpose
 - Updated security updates for INTEL-SA-01083 originally published on Aug 13, 2024 [INTEL-SA-01083](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-01083.html)
-- Security updates for [INTEL-SA-01369](https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-01369.html)
 - Security updates for [INTEL-SA-01396](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01396.html)
 - Update for functional issues. Refer to [10th Gen Intel® Core™ Processor Families Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/341079) for details.
 - Update for functional issues. Refer to [11th Gen Intel® Core™ Processor Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/631123) for details.
