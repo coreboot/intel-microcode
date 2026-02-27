@@ -1,4 +1,18 @@
 # Release Notes
+## [microcode-20260227](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases/tag/microcode-20260227)
+
+### Purpose
+- Update for functional issues. Refer to [Intel® Xeon® 6700P-B/6500P-B-Series SoC with P-Cores](https://cdrdv2.intel.com/v1/dl/getContent/843306/view?wapkw=intel%20xeon%206700P-B) for details.
+
+
+### Updated Platforms
+
+| Processor      | Stepping | F-M-S/PI    | Old Ver  | New Ver  | Products
+|:---------------|:---------|:------------|:---------|:---------|:---------
+| GNR-D          | B0/B1    | 06-ae-01/97 | 010002f3 | 01000303 | Xeon 6700P-B/6500P-B Series SoC with P-Cores 
+
+
+# Release Notes
 ## [microcode-20260210](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases/tag/microcode-20260210)
 
 ### Purpose
