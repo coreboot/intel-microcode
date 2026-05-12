@@ -1,4 +1,42 @@
 # Release Notes
+## [microcode-20260512](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases/tag/microcode-20260512)
+
+### Purpose
+
+- Security updates for [INTEL-SA-01420](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01420.html)
+- Update for functional issues. Refer to [4th Gen Intel® Xeon® Scalable Processors Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/772415) for details.
+- Update for functional issues. Refer to [5th Gen Intel® Xeon® Scalable Processors Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/793902) for details.
+- Update for functional issues. Refer to [Intel® Core™ Ultra 200 V Series Processor](https://cdrdv2.intel.com/v1/dl/getContent/827538) for details.
+- Update for functional issues. Refer to [Intel® Core™ Ultra Processors (Series 2)](https://cdrdv2.intel.com/v1/dl/getContent/834774) for details.
+- Update for functional issues. Refer to [Intel® Core™ Ultra Processors (Series 3)](https://cdrdv2.intel.com/v1/dl/getContent/869992) for details.
+- Update for functional issues. Refer to [Intel® Xeon® 6700 Series Processors with E-cores](https://cdrdv2.intel.com/v1/dl/getContent/820922) for details.
+- Update for functional issues. Refer to [Intel® Xeon® 6900/6700/6500 Series Processors with P-cores](https://cdrdv2.intel.com/v1/dl/getContent/835486) for details.
+- Update for functional issues. Refer to [Intel® Xeon® 6700P-B/6500P-B-Series SoC with P-Cores](https://cdrdv2.intel.com/v1/dl/getContent/843306) for details.
+
+### New Platforms
+
+| Processor      | Stepping | F-M-S/PI    | Old Ver  | New Ver  | Products
+|:---------------|:---------|:------------|:---------|:---------|:---------
+| PTL 404        | A1       | 06-cc-03/90 |          | 0000011b | Intel Core Ultra Processor (Series 3)
+| PTL-H 484/12Xe | A0/B0    | 06-cc-02/90 |          | 0000011b | Intel Core Ultra Processor (Series 3)
+
+### Updated Platforms
+
+| Processor      | Stepping | F-M-S/PI    | Old Ver  | New Ver  | Products
+|:---------------|:---------|:------------|:---------|:---------|:---------
+| ARL-H          | A1       | 06-c5-02/82 | 0000011b | 00000121 | Core Ultra Processor (Series 2)
+| ARL-S/HX (8P)  | B0       | 06-c6-02/82 | 0000011b | 00000121 | Core Ultra Processor (Series 2)
+| EMR-SP         | A1       | 06-cf-02/87 | 210002d3 | 210002e0 | Xeon Scalable Gen5
+| GNR-AP/SP      | Bx/Hx/Lx | 06-ad-01/95 | 01000405 | 01000423 | Xeon 6900/6700/6500 Series Processors with P-Cores
+| GNR-D          | B0/B1    | 06-ae-01/97 | 01000303 | 01000307 | Xeon 6700P-B/6500P-B Series SoC with P-Cores 
+| GNR-SP R1S     | Bx/Hx/Lx | 06-ad-01/20 | 0a000133 | 0a000142 | Xeon 6700/6500-Series Processors with P-Cores
+| LNL            | B0       | 06-bd-01/80 | 00000125 | 00000126 | Core Ultra 200 V Series Processor
+| SPR-SP         | E4/S2    | 06-8f-07/87 | 2b000661 | 2b000670 | Xeon Scalable Gen4
+| SPR-SP         | E5/S3    | 06-8f-08/87 | 2b000661 | 2b000670 | Xeon Scalable Gen4
+| SRF-AP/SP      | C0       | 06-af-03/01 | 03000382 | 030003a3 | Xeon 6900/6700-Series Processors with E-Cores
+
+
+# Release Notes
 ## [microcode-20260227](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases/tag/microcode-20260227)
 
 ### Purpose
