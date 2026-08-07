@@ -1,4 +1,68 @@
 # Release Notes
+## [microcode-20260811](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases/tag/microcode-20260811)
+
+### Purpose
+- Security updates for [INTEL-SA-01379](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01379.html)
+- Security updates for [INTEL-SA-01404](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01404.html)
+- Security updates for [INTEL-SA-01423](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01423.html)
+- Security updates for [INTEL-SA-01428](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01428.html)
+- Security updates for [INTEL-SA-01435](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01435.html)
+- Security updates for [INTEL-SA-01441](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01441.html)
+- Security updates for [INTEL-SA-01442](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01442.html)
+- Security updates for [INTEL-SA-01443](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01443.html)
+- Update for functional issues. Refer to [10th Gen Intel® Core™ Processor Families Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/341079) for details.
+- Update for functional issues. Refer to [13th/14th Gen Intel® Core™ Processor Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/740518) for details.
+- Update for functional issues. Refer to [3rd Generation Intel® Xeon® Processor Scalable Family Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/637780) for details.
+- Update for functional issues. Refer to [4th Gen Intel® Xeon® Scalable Processors Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/772415) for details.
+- Update for functional issues. Refer to [5th Gen Intel® Xeon® Scalable Processors Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/793902) for details.
+- Update for functional issues. Refer to Intel ®Core Series 2 Processors with P-cores for details.
+- Update for functional issues. Refer to [Intel® Core™ Processors (Series 3)](https://cdrdv2.intel.com/v1/dl/getContent/914196) for details.
+- Update for functional issues. Refer to [Intel® Core™ Ultra 200 V Series Processor](https://cdrdv2.intel.com/v1/dl/getContent/827538) for details.
+- Update for functional issues. Refer to [Intel® Core™ Ultra Processor (Series 2)](https://cdrdv2.intel.com/v1/dl/getContent/834774) for details.
+- Update for functional issues. Refer to [Intel® Core™ Ultra Processor](https://cdrdv2.intel.com/v1/dl/getContent/792254) for details.
+- Update for functional issues. Refer to [Intel® Core™ Ultra Processors (Series 3)](https://cdrdv2.intel.com/v1/dl/getContent/869992) for details.
+- Update for functional issues. Refer to [Intel® Xeon® 6700 Series Processors with E-cores](https://cdrdv2.intel.com/v1/dl/getContent/820922) for details.
+- Update for functional issues. Refer to [Intel® Xeon® 6700P-B/6500P-B-Series SoC with P-Cores](https://cdrdv2.intel.com/v1/dl/getContent/843306) for details.
+- Update for functional issues. Refer to [Intel® Xeon® 6900/6700/6500 Series Processors with P-cores](https://cdrdv2.intel.com/v1/dl/getContent/835486) for details.
+- Update for functional issues. Refer to [Intel® Xeon® D-2700 Processor Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/714071) for details.
+- Update for functional issues. Refer to [Intel® Xeon® E-2300 Processor Specification Update](https://cdrdv2.intel.com/v1/dl/getContent/709192) for details.
+
+### New Platforms
+
+| Processor      | Stepping | F-M-S/PI    | Old Ver  | New Ver  | Products
+|:---------------|:---------|:------------|:---------|:---------|:---------
+| BTL-S12P       | A0       | 06-d7-00/36 |          | 00000137 | Intel Core Series 2 Processors with P-cores
+| BTL-S816       | B0       | 06-b7-04/36 |          | 00000137 | Intel Core Series 2 Processors with P-cores
+| WCL            | A1       | 06-d5-01/c0 |          | 0000000c | Intel Core Processors (Series 3)
+
+
+### Updated Platforms
+
+| Processor      | Stepping | F-M-S/PI    | Old Ver  | New Ver  | Products
+|:---------------|:---------|:------------|:---------|:---------|:---------
+| ARL-H          | A1       | 06-c5-02/82 | 00000121 | 00000122 | Core Ultra Processor (Series 2)
+| ARL-S/HX (8P)  | B0       | 06-c6-02/82 | 00000121 | 00000122 | Core Ultra Processor (Series 2)
+| ARL-U          | A0       | 06-b5-00/80 | 0000000d | 0000000e | Core Ultra Processor (Series 2)
+| EMR-SP         | A1       | 06-cf-02/87 | 210002e0 | 210002f4 | Xeon Scalable Gen5
+| GNR-AP/SP      | Bx/Hx/Lx | 06-ad-01/95 | 01000423 | 01000434 | Xeon 6900/6700/6500 Series Processors with P-Cores
+| GNR-D          | B0/B1    | 06-ae-01/97 | 01000307 | 01000309 | Xeon 6700P-B/6500P-B Series SoC with P-Cores 
+| GNR-SP R1S     | Bx/Hx/Lx | 06-ad-01/20 | 0a000142 | 0a000151 | Xeon 6700/6500-Series Processors with P-Cores
+| ICL-D          | B0       | 06-6c-01/10 | 010002f1 | 01000301 | Xeon D-17xx, D-27xx
+| ICL-U/Y        | D1       | 06-7e-05/80 | 000000cc | 000000ce | Core Gen10 Mobile
+| ICX-SP         | Dx/M1    | 06-6a-06/87 | 0d000421 | 0d000433 | Xeon Scalable Gen3
+| LNL            | B0       | 06-bd-01/80 | 00000126 | 00000128 | Core Ultra 200 V Series Processor
+| MTL            | C0       | 06-aa-04/e6 | 00000028 | 0000002a | Core Ultra Processor
+| PTL-404/H204   | A1       | 06-cc-03/94 | 0000011b | 0000011c | Intel Core Ultra processor (Series 3)
+| PTL-H484/PTL-H12Xe | B0/A0| 06-cc-02/94 | 0000011b | 0000011c | Intel Core Ultra processor (Series 3)
+| RKL-S          | B0       | 06-a7-01/02 | 00000065 | 00000066 | Core Gen11
+| RPL-E/HX/S     | B0       | 06-b7-01/36 | 00000133 | 00000137 | Core Gen13/Gen14
+| SPR-HBM        | Bx       | 06-8f-08/10 | 2c000421 | 2c000435 | Xeon Max
+| SPR-SP         | E4/S2    | 06-8f-07/87 | 2b000670 | 2b000685 | Xeon Scalable Gen4
+| SPR-SP         | E5/S3    | 06-8f-08/87 | 2b000670 | 2b000685 | Xeon Scalable Gen4
+| SRF-AP/SP      | C0       | 06-af-03/01 | 030003a3 | 030003b2 | Xeon 6900/6700-Series Processors with E-Cores
+
+
+# Release Notes
 ## [microcode-20260512](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases/tag/microcode-20260512)
 
 ### Purpose
