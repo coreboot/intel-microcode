@@ -1,4 +1,12 @@
 # Release Notes
+## [microcode-20260812](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases/tag/microcode-20260812)
+
+### Purpose
+
+- Removed MTL/06-aa-04/c0 due to functional issues observed when loading the MCU in some platforms.
+
+
+# Release Notes
 ## [microcode-20260811](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases/tag/microcode-20260811)
 
 ### Purpose
