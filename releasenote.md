@@ -1,4 +1,18 @@
 # Release Notes
+## [microcode-20260925](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases/tag/microcode-20260925)
+
+### Purpose
+
+- Update for functional issues. Refer to [Intel® Core™ Ultra Processor](https://cdrdv2.intel.com/v1/dl/getContent/792254) for details.
+
+### Updated Platforms
+
+| Processor      | Stepping | F-M-S/PI    | Old Ver  | New Ver  | Products
+|:---------------|:---------|:------------|:---------|:---------|:---------
+| MTL            | C0       | 06-aa-04/e6 | 00000028 | 0000002b | Core Ultra Processor
+
+
+# Release Notes
 ## [microcode-20260812](https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases/tag/microcode-20260812)
 
 ### Purpose
